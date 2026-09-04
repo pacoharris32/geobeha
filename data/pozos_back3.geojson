@@ -1,0 +1,5080 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37356,
+          26.046618
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0001",
+        "CVE_POZO": "POZO 1339",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1962",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 180.14,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0001.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.635615,
+          25.88127166666667
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0002",
+        "CVE_POZO": "POZO 1957",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1963",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 306.32,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0002.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.535275,
+          25.69432166666667
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0003",
+        "CVE_POZO": "POZO 1331",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1964",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 304.8,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0003.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9916666666667,
+          25.3125
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0004",
+        "CVE_POZO": "PCOABCL76-1 (3093)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 118,
+        "NE_M": 33.52,
+        "ND_M": 34.14,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0004.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8819444444444,
+          25.50194444444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0005",
+        "CVE_POZO": "PCOABCL76-2 (3089)",
+        "NOMB_POZO": "BILBAO",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 143,
+        "NE_M": 18.18,
+        "ND_M": 19.36,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0005.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9847222222222,
+          25.31388888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0006",
+        "CVE_POZO": "PCOABCL76-3 (3091)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 109,
+        "NE_M": 29.94,
+        "ND_M": 30.07,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0006.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9944444444445,
+          25.31527777777778
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0007",
+        "CVE_POZO": "PCOABCL76-4 (3094)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 111,
+        "NE_M": 33.87,
+        "ND_M": 34.38,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0007.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9819444444445,
+          25.3125
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0008",
+        "CVE_POZO": "PCOABCL76-5 (3090)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 100,
+        "NE_M": 39.9,
+        "ND_M": 41.22,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0008.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9975,
+          25.31666666666667
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0009",
+        "CVE_POZO": "PCOABCL76-6 (3095)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 130,
+        "NE_M": 28.76,
+        "ND_M": 30.9,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0009.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9875,
+          25.31333333333333
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0010",
+        "CVE_POZO": "PCOABCL76-7 (3092)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 120,
+        "NE_M": 35.3,
+        "ND_M": 35.67,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0010.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0097222222222,
+          25.31388888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0011",
+        "CVE_POZO": "PCOABCL76-8 (3096)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1976",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 135,
+        "NE_M": 33.15,
+        "ND_M": 45.53,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0011.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8611111111111,
+          25.48277777777778
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0012",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1977",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": 147,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0012.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9938888888889,
+          25.31333333333333
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0013",
+        "CVE_POZO": "PCOABCL76-9 (3090)",
+        "NOMB_POZO": "VENUSTIANO CARRANZA",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1977",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 100,
+        "NE_M": 39.9,
+        "ND_M": 41.22,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0013.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9814194444444,
+          25.31106111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "10-V.CARRANZA (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0532",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 32.32,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.977,
+          25.3335
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "11-V.CARRANZA (2899)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0533",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9540694444444,
+          25.72911111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "12-EL NILO (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0534",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 3.52,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.71825,
+          25.84288055555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "13-SANTA RITA (2912)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0535",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 42.35,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7127805555556,
+          25.82531944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "14-SAN JORGE (2907)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0536",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 64.8,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7291,
+          25.79926111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "15-EL SUSPIRO (2911)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0537",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 55.41,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8074,
+          25.66653055555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "16-JACALES (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0538",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 35.25,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7018194444445,
+          25.57878055555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "17-LA SIETE (2610)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0539",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 76.59,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8590111111111,
+          25.71568055555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "18-VICENTE SUAREZ (2876)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0540",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 50.41,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8751388888889,
+          25.74103888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "19-VICENTE SUAREZ (2875)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0541",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 54.73,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0620194444444,
+          25.46751944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "20-GABINO VAZQUEZ (2136)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0542",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 46.55,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0736111111111,
+          25.47201944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "21-GABINO VAZQUEZ (2085)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0543",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.62765,
+          25.72073055555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "22-DINAMITA (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0544",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 33.41,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.60935,
+          25.75521111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "23-RCHO. LAS CARMELAS (1612)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0545",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 75.4,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.61505,
+          25.77275
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "24-STA ELENA (3619",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0546",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 52.5,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7457305555556,
+          25.85836944444445
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "25-SAN ISIDRO (417)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0547",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 57.73,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6215888888889,
+          25.91616944444445
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "26-EL ROSALINO (2884)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0548",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 85.55,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6298388888889,
+          25.93358055555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "27-SAN ISIDRO (2745)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0549",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 85,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7839888888889,
+          25.79098055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "28-LA OJUELA (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0550",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6477194444444,
+          25.9343
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "29-LA PLATOSA (2504)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0551",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 38,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3987111111111,
+          25.98483888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "32-SAN FRANCISCO (1835)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0552",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3858611111111,
+          25.97271944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "33-SAN FRANCISCO (2887)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0553",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0350805555556,
+          25.57618888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "34-EL PALMITO (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0554",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5197611111111,
+          25.12025
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "35-HIDALGO DE SAN ANT (87)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0555",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 60,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.06945,
+          25.26263888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "36-AGUISTIN MELGAR (73)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0556",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 60,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9067388888889,
+          25.23393055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "37-V.CARRANZA (62)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0557",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 80,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7703888888889,
+          25.27676944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "38-FRANCISCO ZARCO (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0558",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3433611111111,
+          25.82036944444445
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "39-SAN ALBERTO (2065)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0559",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 80,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4575888888889,
+          25.37798888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "3-LA CAMPANA (1848)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0525",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 67.29,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3988194444444,
+          25.85996944444445
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "40-EL BARRO (2087)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0560",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 80,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4086138888889,
+          25.95615833333333
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "41-GRANJA EL PILAR (1374)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0561",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 80,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4705611111111,
+          25.35408055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "4-LA VENTANA (2565)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0526",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3279194444444,
+          25.08623055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "5-FLOR JIMULCO(3008)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0527",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 13.17,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3887694444444,
+          25.14445
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "6-ZARAGOZA (2999)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0528",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8732111111111,
+          25.32848888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "8-VIESCA (3055)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0530",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01015,
+          25.31538888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0015",
+        "CVE_POZO": "9-V.CARRANZA (SIN CLAVE)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1978",
+        "CVE_ACUIF": "0531",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 34.5,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5797222222222,
+          25.50694444444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "PDGOECL-84-01",
+        "NOMB_POZO": "VILLA JUÁREZ NO. 1",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 62,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5674027777778,
+          25.49079166666667
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 1 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.563625,
+          25.51078611111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 1 SAHOP",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6003027777778,
+          25.50053888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 10 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5635527777778,
+          25.50111944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 3 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6144583333333,
+          25.50609166666667
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 3 SAHOP",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5758027777778,
+          25.50570555555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 5 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5753583333333,
+          25.50070555555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 6 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5764472222222,
+          25.49401111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 7 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5859861111111,
+          25.50333611111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 8 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5932361111111,
+          25.5033
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0016",
+        "CVE_POZO": "POZO 9 CFE",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0016.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5847222222222,
+          25.50472222222222
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0017",
+        "CVE_POZO": "PDGOECL84-02",
+        "NOMB_POZO": "VILLA DE JUÁREZ NO. 2",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 62.15,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0017.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5763888888889,
+          25.50638888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0018",
+        "CVE_POZO": "PDGOECL84-03",
+        "NOMB_POZO": "VILLA DE JUÁREZ NO. 3",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 62.15,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0018.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5633333333333,
+          25.5025
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0019",
+        "CVE_POZO": "PDGOECL84-04",
+        "NOMB_POZO": "VILLA DE JUÁREZ NO. 4",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1984",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOLÓGICA",
+        "PROF_TOT_m": 62,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0019.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3555555555556,
+          25.66805555555555
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0020",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1985",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 250,
+        "NE_M": 90,
+        "ND_M": 108,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0020.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6666666666667,
+          25.53333333333333
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0021",
+        "CVE_POZO": "PDGOECL85-01",
+        "NOMB_POZO": "LEÓN GUZMÁN (EL PAVO)",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1985",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 197,
+        "NE_M": 32,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0021.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3877777777778,
+          26.04638888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0024",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0024.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6194444444445,
+          25.90027777777778
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0024",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0024.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1358333333333,
+          25.79111111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0024",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0024.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4305555555556,
+          25.62083333333333
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0024",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0024.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2327388888889,
+          25.50676944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0024",
+        "CVE_POZO": "SIN ID",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0024.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51948,
+          25.59212
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 17 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 60.96,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51948,
+          25.59212
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 17 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 60.96,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5300305555556,
+          25.59951111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 18",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5387,
+          25.63606944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 36 (A1990)",
+        "NOMB_POZO": "PREDIO EL VERGEL",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 116.13,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5387,
+          25.63606944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 36 (A1993)",
+        "NOMB_POZO": "PREDIO EL VERGEL",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 116.13,
+        "NE_M": 60.66,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.52213,
+          25.67924
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 55",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51325,
+          25.66108888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 104",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.60884,
+          25.71124
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 116 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 70.71,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51905,
+          25.78266
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 158 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 84.12,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.60046,
+          25.65878
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 186",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5590888888889,
+          25.67433055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 200",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47294,
+          25.57819
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 233",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43636,
+          25.619898
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 251",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45767,
+          25.63754
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 257 (1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45767,
+          25.63754
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 257 (1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4329,
+          25.74007
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 268 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4329,
+          25.74007
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 268 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43027,
+          25.68595
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 297 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43027,
+          25.68595
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 297 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4211361111111,
+          25.67792222222222
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 306",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40649,
+          25.61117
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 331 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40649,
+          25.61117
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 331 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42933,
+          25.57081
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 336",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40773,
+          25.57702
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 338",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4191,
+          25.59649
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 342",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40403,
+          25.64692
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 357",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39055,
+          25.63084
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 363",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.36708,
+          25.65632
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 368",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35335,
+          25.67695
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 369",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37584,
+          25.60544
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 374",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39463,
+          25.59394
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 379",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34666,
+          25.76916
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 504",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3310638888889,
+          25.72426944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 520 (A1990)",
+        "NOMB_POZO": "EJIDO EL PILAR",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 123.44,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3310638888889,
+          25.72426944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 520 (A1993)",
+        "NOMB_POZO": "EJIDO EL PILAR",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 123.44,
+        "NE_M": 70.71,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.58487,
+          25.81373
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 541",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6343888888889,
+          25.67253055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 546 (A1990)",
+        "NOMB_POZO": "EJIDO LORENZO AVALOS",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 188.06,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6343888888889,
+          25.67253055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 546 (A1993)",
+        "NOMB_POZO": "EJIDO LORENZO AVALOS",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 188.06,
+        "NE_M": 119.2,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.64029,
+          25.90164
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 554",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2577111111111,
+          25.70368888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 738 (A1990)",
+        "NOMB_POZO": "PREDIO BUEN ABRIGO",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2577111111111,
+          25.70368888888889
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 738 (A1993)",
+        "NOMB_POZO": "PREDIO BUEN ABRIGO",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 48.16,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2898,
+          25.66001
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 756 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2898,
+          25.66001
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 756 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.30345,
+          25.59591111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 772 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.30345,
+          25.59591111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 772 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.308817,
+          25.594605
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 774",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2516,
+          25.69881
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 847",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.162951,
+          25.749508
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 901 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.162951,
+          25.749508
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 901 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25917,
+          25.86612
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1000",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.12449,
+          25.89206
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1036 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 60.66,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31337,
+          25.82717
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1040 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31337,
+          25.82717
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1040 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4421722222222,
+          25.934675
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1085 (A1990)",
+        "NOMB_POZO": "PREDIO GUADALUPE",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 104.24,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4421722222222,
+          25.934675
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1085 (A1993)",
+        "NOMB_POZO": "PREDIO GUADALUPE",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 104.24,
+        "NE_M": 57.3,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.13284,
+          25.51227
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1125",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.16402,
+          25.43774
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1198 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 119.18,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.12881,
+          25.4295
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1219 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.12881,
+          25.4295
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1219 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34651,
+          25.38061
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1228 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34651,
+          25.38061
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1228 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.579,
+          25.79704
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1308 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 57.3,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5794694444444,
+          25.80292222222222
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1309 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5794694444444,
+          25.80292222222222
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1309 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2141888888889,
+          25.44166944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1349 (A1990)",
+        "NOMB_POZO": "PREDIO LAS FILIPINAS",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 145.39,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2141888888889,
+          25.44166944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1349 (A1993)",
+        "NOMB_POZO": "PREDIO LAS FILIPINAS",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 145.39,
+        "NE_M": 85.65,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11582,
+          25.91818
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1387",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31489,
+          25.48526
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1400",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05737,
+          25.69032
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1489",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.12141,
+          25.82334
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1515",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3772194444444,
+          25.61973055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1632 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 107.9,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.10981,
+          25.78711
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1657 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": null,
+        "NE_M": 69.8,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.14602,
+          25.89639
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1695 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.14602,
+          25.89639
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1695 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": 64.31,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3138,
+          25.496638
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1884",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.204051,
+          25.885718
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1892",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4424,
+          25.64586944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1940",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.08777,
+          25.54326
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1975",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4036694444444,
+          25.73408055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 1981",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17625,
+          26.01474
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO A1993",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4203694444444,
+          25.59571944444444
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2016",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23183,
+          25.56798
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2024",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.59825,
+          25.7243
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2075",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.168957,
+          25.522326
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2115",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98867,
+          25.78177
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2178 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98867,
+          25.78177
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2178 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0392,
+          25.49407
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2234",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.439875,
+          25.52285
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2240",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.268935,
+          25.530788
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2314 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.268935,
+          25.530788
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2314 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.57691,
+          25.5906
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2344",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4302388888889,
+          25.812025
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2345 (1990)",
+        "NOMB_POZO": "PREDIO ARCINAS",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 193.85,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4302388888889,
+          25.812025
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2345 (A1993)",
+        "NOMB_POZO": "PREDIO ARCINAS",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 193.85,
+        "NE_M": 84.12,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3292,
+          25.5049
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2349 (A1990)",
+        "NOMB_POZO": "EJIDO LA PERLA",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 157.58,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3292,
+          25.5049
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2349 (A1993)",
+        "NOMB_POZO": "EJIDO LA PERLA",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 157.58,
+        "NE_M": 107.9,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42895,
+          25.64992
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2382",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.616825,
+          25.513014
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2408",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35291,
+          25.95263
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2479",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.19065,
+          26.0024
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2510 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.19065,
+          26.0024
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2510 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.62378,
+          25.49701
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2538",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40865,
+          26.06211
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2554",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.66653,
+          25.4214
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2575",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.742,
+          25.44446
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2592",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.73385,
+          25.50693
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2595",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.69338,
+          25.55569
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2605",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.65638,
+          25.52821
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2612",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.61699,
+          25.52817
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2624",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.26892,
+          25.9456
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2654 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.26892,
+          25.9456
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2654 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.66406,
+          25.47384
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2679",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.644505,
+          25.715697
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2686",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.309406,
+          25.404673
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2734",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.60005,
+          26.00158
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2755 (A1990)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24131,
+          25.31091
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2775 (A1993)",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.196212,
+          25.300506
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2787",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24897,
+          25.385
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2812",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.14118,
+          25.96589
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2819",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3667694444444,
+          25.98036111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2887 (A1990)",
+        "NOMB_POZO": "PREDIO 20 DE ABRIL",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 138.4,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3667694444444,
+          25.98036111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2887 (A1993)",
+        "NOMB_POZO": "PREDIO 20 DE ABRIL",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 138.4,
+        "NE_M": 69.8,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7135805555556,
+          25.81456111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2907 (A1990)",
+        "NOMB_POZO": "PREDIO TRASGO",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 136.55,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7135805555556,
+          25.81456111111111
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2907 (A1993)",
+        "NOMB_POZO": "PREDIO TRASGO",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 136.55,
+        "NE_M": 64.31,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46059,
+          25.94097
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2910",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.52596,
+          25.91099
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 2984",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37935,
+          26.00939
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3035",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.339,
+          26.05703055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3036 (A1990)",
+        "NOMB_POZO": "PREDIO LUIS ECHEVERRIA ÁLVAREZ",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "PROFUNDIDAD",
+        "PROF_TOT_m": 139.9,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.339,
+          26.05703055555556
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3036 (A1993)",
+        "NOMB_POZO": "PREDIO LUIS ECHEVERRIA ÁLVAREZ",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "HIDROGEOQUÍMICO",
+        "PROF_TOT_m": 139.9,
+        "NE_M": 60.96,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.04447,
+          25.36687
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3054",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.88291,
+          25.49337
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3089",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.448602,
+          25.564129
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3143",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.56862,
+          25.5271
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3252",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51511,
+          25.5058
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3345",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51376,
+          25.52706
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3383",
+        "NOMB_POZO": "",
+        "CVE_EDO": "10",
+        "NOM_EDO": "DURANGO",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/10 DURANGO/PDF/10_0025.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41497,
+          25.54339
+        ]
+      },
+      "properties": {
+        "CVE_LGJO": "10_0025",
+        "CVE_POZO": "POZO 3775",
+        "NOMB_POZO": "",
+        "CVE_EDO": "05",
+        "NOM_EDO": "COAHUILA",
+        "AÑO": "1993",
+        "CVE_ACUIF": "0523",
+        "NOM_ACUIF": "PRINCIPAL-REGION LAGUNERA",
+        "TIPO_INF": "CROQUIS",
+        "PROF_TOT_m": null,
+        "NE_M": null,
+        "ND_M": null,
+        "URL": "https://sigagis.conagua.gob.mx/t_infbasica/INVENTARIO/05 COAHUILA DE ZARAGOZA/PDF/10_0025.pdf"
+      }
+    }
+  ]
+}

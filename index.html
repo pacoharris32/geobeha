@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GEOINBASEHA — Geovisor de información básica exploratoria e histórica de acuíferos</title>
+
+<!-- Leaflet -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<!-- PapaParse (para exportar CSV) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-left">
+    <button id="panel-toggle" class="panel-toggle" title="Mostrar/ocultar panel">☰</button>
+    <div class="header-title">
+      <h1>Geovisor de información básica exploratoria e histórica de acuíferos</h1>
+      <span class="app-subtitle">GEOINBASEHA</span>
+    </div>
+  </div>
+  <button id="btn-info" class="btn-header" title="Acerca de este geovisor">Acerca de</button>
+</header>
+
+<div class="app-body">
+
+  <!-- Panel lateral izquierdo -->
+  <aside class="side-panel" id="side-panel">
+
+    <div class="panel-section">
+      <h2>Buscador</h2>
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Buscar acuífero por clave o nombre…" autocomplete="off">
+        <button id="search-btn" title="Buscar">🔍</button>
+      </div>
+      <div id="search-results" class="search-results"></div>
+
+      <div class="filter-row">
+        <div class="filter-col">
+          <label for="filter-estado">Estado</label>
+          <select id="filter-estado">
+            <option value="">Todos</option>
+          </select>
+        </div>
+        <div class="filter-col">
+          <label for="filter-acuifero">Acuífero</label>
+          <select id="filter-acuifero" disabled>
+            <option value="">Todos</option>
+          </select>
+        </div>
+      </div>
+
+      <button id="btn-limpiar-filtros" class="btn-limpiar" title="Restaurar a estado inicial">
+        🔄 Limpiar filtros
+      </button>
+    </div>
+
+    <div class="panel-section">
+      <h2>Lista de capas</h2>
+      <ul class="layer-list" id="layer-list">
+        <li>
+          <label><input type="checkbox" id="layer-acuiferos" checked> Acuíferos</label>
+        </li>
+        <li>
+          <label><input type="checkbox" id="layer-estados" checked> Estados</label>
+        </li>
+        <li class="layer-disabled">
+          <label><input type="checkbox" id="layer-geologia" disabled> Geología <span class="badge-soon">(sin datos disponibles)</span></label>
+        </li>
+        <li>
+          <label><input type="checkbox" id="layer-pozos" checked> Pozos con información básica</label>
+          <ul class="sublayer-list">
+            <li><label><input type="checkbox" class="pozo-tipo" value="CROQUIS" checked> Croquis</label></li>
+            <li><label><input type="checkbox" class="pozo-tipo" value="HIDROGEOLÓGICA" checked> Hidrogeológica</label></li>
+            <li><label><input type="checkbox" class="pozo-tipo" value="HIDROGEOQUÍMICO" checked> Hidrogeoquímico</label></li>
+            <li><label><input type="checkbox" class="pozo-tipo" value="PROFUNDIDAD" checked> Profundidad</label></li>
+            <li><label><input type="checkbox" class="pozo-tipo" value="OTRO" checked> Otro</label></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <div class="panel-section">
+      <h2>Leyenda / Simbología</h2>
+      <ul class="legend-list" id="legend-list"></ul>
+    </div>
+
+    <div class="panel-section">
+      <h2>Herramienta de descarga de información</h2>
+      <div class="download-row">
+        <button class="btn-download" id="download-excel">Excel (CSV)</button>
+        <button class="btn-download" id="download-geojson">GeoJSON</button>
+      </div>
+      <!-- <div class="download-row">
+        <button class="btn-download" id="download-simbologia">Simbología</button>
+        <button class="btn-download" id="download-diccionario">Diccionario de datos</button>
+      </div> -->
+      <p class="download-note">La descarga toma en cuenta los pozos actualmente filtrados/visibles en el mapa.</p>
+    </div>
+
+  </aside>
+
+  <!-- Mapa -->
+  <main class="map-wrap">
+    <div id="map"></div>
+
+    <!-- Panel de información al posicionarse / hacer click -->
+    <div id="info-popup-template" style="display:none;"></div>
+  </main>
+
+</div>
+
+<!-- Tabla de atributos inferior -->
+<section class="attr-table-section" id="attr-table-section">
+  <div class="attr-table-header">
+    <h2>Herramienta de visualización y selección de registros (<span id="attr-count">0</span> pozos)</h2>
+    <button id="attr-table-toggle" title="Mostrar/ocultar tabla">▾</button>
+  </div>
+  <div class="attr-table-scroll" id="attr-table-scroll">
+    <table id="attr-table">
+      <thead></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</section>
+
+<!-- Modal "Acerca de" -->
+<div id="modal-info" class="modal-overlay" style="display:none;">
+  <div class="modal-box">
+    <button class="modal-close" id="modal-close">✕</button>
+    <h2>Geovisor de información básica exploratoria e histórica de acuíferos</h2>
+    <p>La información exploratoria de agua subterránea permite la caracterización del subsuelo, cuantificar
+    volúmenes disponibles y evaluar la calidad del recurso. Permite mapear estructuras geológicas y ubicar el
+    agua a diferentes profundidades, determinar las propiedades físicas y químicas del agua, evaluar la recarga
+    natural del acuífero y conocer la intrusión salina o el hundimiento del terreno.</p>
+    <p>Para explorar el subsuelo se combinan diversas técnicas: geofísica terrestre (Tomografía de Resonancia
+    Magnética o Sondeo Eléctrico Vertical), datos satelitales y pruebas de bombeo.</p>
+    <p>Este geovisor difunde el conocimiento recopilado en la biblioteca de Estudios y Proyectos de la GAS,
+    clasificando la información disponible en cada legajo por: <strong>croquis</strong>, <strong>información
+    de profundidad</strong>, <strong>información físico-química</strong> e <strong>información
+    hidrogeológica</strong>.</p>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

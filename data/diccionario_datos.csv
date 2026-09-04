@@ -1,0 +1,56 @@
+CLASIFICACION,NUM,CAMPO,ALIAS,DESCRIPCION_DEL_CAMPO,UNIDAD_DEL_DATO,TIPO_DEL_CAMPO,ESPECIFICACIONES,PERMITE_VALORES_NULOS
+POZO,1,CVE_LGJO,CLAVE DE LEGAJO,Identificador único del legajo (clave de estado + consecutivo),Adimensional,Texto,7 caracteres (NN_NNNN),No
+POZO,2,CVE_POZO,CLAVE DEL POZO,Identificador o nombre del pozo tal como aparece en el legajo,Adimensional,Texto,Alfanumérico,Sí
+POZO,3,NOMB_POZO,NOMBRE DEL POZO,Nombre propio del pozo o predio,Adimensional,Texto,Alfanumérico,Sí
+POZO,4,TIT_LGJO,TITULO DEL LEGAJO,Título original con el que se identifica el legajo,Adimensional,Texto,Alfanumérico,Sí
+POZO,5,CVE_EDO,CLAVE DEL ESTADO,Clave INEGI del estado (sin acolchado de ceros),Adimensional,Entero,1-2 caracteres,No
+POZO,6,CVE_EDO_STR,CLAVE DEL ESTADO (2 DIG.),Clave INEGI del estado con relleno de ceros a 2 dígitos,Adimensional,Texto,2 caracteres (NN),No
+POZO,7,NOM_EDO_OFICIAL,NOMBRE DEL ESTADO,Nombre oficial del estado obtenido de la capa de acuíferos vigente,Adimensional,Texto,Alfanumérico,Sí
+POZO,8,CVE_MPIO,CLAVE DEL MUNICIPIO,Clave INEGI del municipio según el legajo,Adimensional,Entero,Hasta 5 caracteres,Sí
+POZO,9,AÑO,AÑO,Año de integración/registro del legajo,Fecha,Entero,4 caracteres (AAAA),No
+CARACTERISTICAS CONTINUO DEL LEGAJO,10,DESC,DESCRIPCIÓN,Descripción general del contenido del legajo,Adimensional,Texto,Alfanumérico,Sí
+POZO,11,LONGITUD,LONGITUD,Coordenada geográfica X (grados decimales, WGS84/DATUM del levantamiento),Grados decimales,Decimal,Precisión original del legajo,Sí (61 registros sin coordenada)
+POZO,12,LATITUD,LATITUD,Coordenada geográfica Y (grados decimales, WGS84/DATUM del levantamiento),Grados decimales,Decimal,Precisión original del legajo,Sí (61 registros sin coordenada)
+POZO,13,DATUMG,DATUM GEODÉSICO,Datum geodésico de referencia de la coordenada original,Adimensional,Texto,Alfanumérico,Sí
+POZO,14,CVE_ACUIF,CLAVE DEL ACUÍFERO,Clave del acuífero según el legajo (sin acolchado de ceros),Adimensional,Entero,1-4 caracteres,Sí
+POZO,15,CVE_ACUIF_STR,CLAVE DEL ACUÍFERO (4 DIG.),Clave del acuífero con relleno de ceros a 4 dígitos (NNNN),Adimensional,Texto,4 caracteres,Sí
+POZO,16,NOM_ACUIF,NOMBRE DEL ACUÍFERO (LEGAJO),Nombre del acuífero tal como se capturó en el legajo original,Adimensional,Texto,Alfanumérico,Sí
+POZO,17,NOM_ACUIF_OFICIAL,NOMBRE DEL ACUÍFERO (OFICIAL),Nombre oficial vigente del acuífero obtenido por relación con la capa de acuíferos,Adimensional,Texto,Alfanumérico,Sí
+POZO,18,ACUIF_ENCONTRADO,ACUÍFERO ENCONTRADO EN CAPA,Indica si la clave de acuífero del legajo existe en la capa oficial de acuíferos vigente,Adimensional,Booleano,VERDADERO / FALSO,No
+CARACTERISTICAS CONTINUO DEL LEGAJO,19,CT_POZO,CORTE DE TERMINACIÓN DEL POZO,Indica si el legajo cuenta o no con corte de terminación del pozo,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,20,DISEÑO_PERF,DISEÑO DE PERFORACIÓN,Indica si el legajo cuenta o no con diseño de perforación,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,21,CORTE_LIT,CORTE LITOLÓGICO,Indica si el legajo cuenta o no con corte litológico,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,22,REG_ELEC,REGISTRO ELÉCTRICO,Indica si el legajo cuenta o no con registro eléctrico,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,23,INF_PERF,INFORME DE PERFORACIÓN,Indica si el legajo cuenta o no con informe de perforación,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,24,REG_AFORO,REGISTRO DE AFORO,Indica si el legajo cuenta o no con prueba/registro de aforo,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,25,ANAL_AGUA,ANÁLISIS DE AGUA,Indica si el legajo cuenta o no con análisis físico-químico de agua,Adimensional,Texto,2 caracteres (SI/NO),Sí
+CARACTERISTICAS CONTINUO DEL LEGAJO,26,CROQUIS,CROQUIS,Indica si el legajo cuenta o no con croquis de localización,Adimensional,Texto,2 caracteres (SI/NO),Sí
+POZO,27,TIPO_INF,TIPO DE INFORMACIÓN PREDOMINANTE,Clasificación predominante del contenido del legajo (croquis/hidrogeológica/hidrogeoquímico/profundidad/otro),Adimensional,Texto,Catálogo cerrado,Sí
+INFORMACION DE PROFUNDIDAD,28,PROF_TOT_m,PROFUNDIDAD TOTAL,Profundidad total del pozo,Metros,Decimal,2 decimales,Sí
+INFORMACION DE PROFUNDIDAD,29,PROF_REG_m,PROFUNDIDAD DE REGISTRO,Profundidad registrada en el estudio geofísico,Metros,Decimal,2 decimales,Sí
+INFORMACION HIDROGEOLOGICA,30,HGQ,INFORMACIÓN HIDROGEOQUÍMICA,Indica si el legajo cuenta o no con información hidrogeoquímica,Adimensional,Texto,2 caracteres (SI/NO),Sí
+INFORMACION DE PROFUNDIDAD,31,F_INICIO,FECHA DE INICIO,Fecha de inicio de la perforación o del estudio,Fecha,Texto/Fecha,AAAA-MM-DD (formato variable en el legajo original),Sí
+INFORMACION DE PROFUNDIDAD,32,F_FINAL,FECHA FINAL,Fecha de conclusión de la perforación o del estudio,Fecha,Fecha,AAAA-MM-DD,Sí
+INFORMACION DE PROFUNDIDAD,33,NE_M,NIVEL ESTÁTICO,Profundidad del nivel estático del agua,Metros,Decimal,2 decimales,Sí
+INFORMACION DE PROFUNDIDAD,34,ND_M,NIVEL DINÁMICO,Profundidad del nivel dinámico del agua durante bombeo,Metros,Decimal,2 decimales,Sí
+INFORMACION HIDROGEOLOGICA,35,ALTITUD_msnm,ALTITUD,Altitud del brocal del pozo sobre el nivel del mar,msnm,Decimal,2 decimales,Sí
+INFORMACION DE PROFUNDIDAD,36,Q_LPS,CAUDAL,Caudal medido en la prueba de aforo,Litros por segundo,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,37,Ca,CALCIO,Concentración de calcio,mg/L,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,38,Mg,MAGNESIO,Concentración de magnesio,mg/L,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,39,Na,SODIO,Concentración de sodio,mg/L,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,40,Cl,CLORUROS,Concentración de cloruros,mg/L,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,41,SO4,SULFATOS,Concentración de sulfatos,mg/L,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,42,HCO3,BICARBONATOS,Concentración de bicarbonatos,mg/L,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,43,STD_ppm,SÓLIDOS TOTALES DISUELTOS,Sólidos totales disueltos,ppm,Decimal,2 decimales,Sí
+INFORMACION HIDROGEOLOGICA,44,LONG_COL_m,LONGITUD DE COLUMNA,Longitud de la columna de ademe/perforación,Metros,Decimal,2 decimales,Sí
+INFORMACION HIDROGEOLOGICA,45,ADEME_pulg,DIÁMETRO DE ADEME,Diámetro del ademe utilizado en la perforación,Pulgadas,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,46,TEMP_°C,TEMPERATURA,Temperatura del agua al momento del muestreo,°C,Decimal,1 decimal,Sí
+INFORMACION FISICOQUIMICA,47,POT_H_s/u,POTENCIAL DE HIDRÓGENO,pH del agua,s/u,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,48,CE_Us/cm,CONDUCTIVIDAD ELÉCTRICA,Conductividad eléctrica del agua,µS/cm,Decimal,2 decimales,Sí
+INFORMACION FISICOQUIMICA,49,As_mg/L,ARSÉNICO,Concentración de arsénico,mg/L,Decimal,4 decimales,Sí
+POZO,50,URL,LIGA AL LEGAJO ORIGINAL,Liga de descarga del legajo digitalizado en formato PDF,Adimensional,Texto,URL,Sí
+CAPA ACUÍFEROS,51,CLV_ACUI,CLAVE DEL ACUÍFERO (CAPA OFICIAL),Clave oficial vigente del acuífero (CONAGUA),Adimensional,Texto,4 caracteres (NNNN),No
+CAPA ACUÍFEROS,52,NOM_ACUI,NOMBRE DEL ACUÍFERO (CAPA OFICIAL),Nombre oficial vigente del acuífero (CONAGUA),Adimensional,Texto,Alfanumérico,No
+CAPA ACUÍFEROS,53,CLAVE_EDO,CLAVE DEL ESTADO (CAPA OFICIAL),Clave INEGI del estado con relleno de ceros a 2 dígitos,Adimensional,Texto,2 caracteres (NN),No
+CAPA ACUÍFEROS,54,NOM_EDO,NOMBRE DEL ESTADO (CAPA OFICIAL),Nombre oficial del estado,Adimensional,Texto,Alfanumérico,No
+CAPA ESTADOS,55,NOMGEO,NOMBRE GEOGRÁFICO DEL ESTADO,Nombre oficial de la entidad federativa,Adimensional,Texto,Alfanumérico,No
